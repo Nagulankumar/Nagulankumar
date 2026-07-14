@@ -1,16 +1,16 @@
 <h1 align="center">Hi there, I'm Nagulan K 👋</h1>
 
-<h3 align="center">AIML Engineering Student | Python & Java Developer | Building ML Projects</h3>
+<h3 align="center">CSE (AIML) Engineering Student | Python & Java Developer | Building ML Projects</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F5D50&center=true&vCenter=true&width=600&lines=B.E.+AIML+Student+at+VSB+Engineering+College;Machine+Learning+%7C+Python+%7C+Java;Open+to+Internship+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F5D50&center=true&vCenter=true&width=600&lines=B.E.+CSE+(AIML)+Student+at+VSB+Engineering+College;Machine+Learning+%7C+Python+%7C+Java;Open+to+Internship+Opportunities" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🎯 About Me
 
-- 🎓 3rd Year B.E. student in **Artificial Intelligence and Machine Learning**, VSB Engineering College, Karur
+- 🎓 3rd Year B.E. student in **Computer Science and Engineering (AIML)**, VSB Engineering College, Karur
 - 💻 Currently building projects in **Python, Java, and Machine Learning**
 - 📚 Preparing for placements at top MNCs
 - 🌱 Learning Data Structures & Algorithms, and exploring Generative AI / LLM APIs
